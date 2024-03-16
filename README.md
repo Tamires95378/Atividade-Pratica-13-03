@@ -1,5 +1,5 @@
-# Ativadade 03!
-Esta página web foi criada como parte da 3ª atividade prática da disciplina de Usabilidade, Desenvolvimento Web, Mobile e Jogos, ministrada pelo professor André Rodrigues.
+# Ativadade Prática 13/03/2024.
+Esta página web foi criada como parte da atividade prática da disciplina de Usabilidade, Desenvolvimento Web, Mobile e Jogos, ministrada pelo professor André Rodrigues.
 
 ### Características:
 
